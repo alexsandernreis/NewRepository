@@ -1,0 +1,24 @@
+Internet
+11612611 AVANADE
+VPN Avanade
+newvpn.avanade.com
+connection name Avanade MFA VPN
+https://account.activedirectory.windowsazure.com/Proofup.aspx
+https://avanade.sharepoint.com/sites/help/access/pages/vpn.aspx
+Alterar Senha
+https://account.activedirectory.windowsazure.com/r#/profile
+https://avanade.sharepoint.com/sites/Hub
+
+Acesso Internet Santander
+1.1.1.1
+https://10.30.21.10:8443/portal/gateway?sessionId=50c8efb4005376c7e01e755c&portal=36a96010-c267-11e8-89ad-2e2e02dc7046&action=cwa&token=f97fcd52d75df182c8719b2323dd73ec&redirect=www.msftconnecttest.com/redirect
+https://10.30.21.10:8443/portal/
+2n4dzfkp
+(%)X#BmE4M
+vpnti.santander.com.br
+vpn.santander.com
+X213223
+Checkpoint Endpoint Security
+https://owa.santander.com.br/owa/
+p000areis@prservicos.com.br
+0V3?d04gcn
